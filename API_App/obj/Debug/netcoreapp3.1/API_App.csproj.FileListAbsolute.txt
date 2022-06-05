@@ -1,0 +1,15 @@
+C:\Users\Artem\source\repos\API_App\API_App\bin\Debug\netcoreapp3.1\API_App.exe
+C:\Users\Artem\source\repos\API_App\API_App\bin\Debug\netcoreapp3.1\API_App.deps.json
+C:\Users\Artem\source\repos\API_App\API_App\bin\Debug\netcoreapp3.1\API_App.runtimeconfig.json
+C:\Users\Artem\source\repos\API_App\API_App\bin\Debug\netcoreapp3.1\API_App.runtimeconfig.dev.json
+C:\Users\Artem\source\repos\API_App\API_App\bin\Debug\netcoreapp3.1\API_App.dll
+C:\Users\Artem\source\repos\API_App\API_App\bin\Debug\netcoreapp3.1\API_App.pdb
+C:\Users\Artem\source\repos\API_App\API_App\obj\Debug\netcoreapp3.1\API_App.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\API_App\API_App\obj\Debug\netcoreapp3.1\API_App.AssemblyInfoInputs.cache
+C:\Users\Artem\source\repos\API_App\API_App\obj\Debug\netcoreapp3.1\API_App.AssemblyInfo.cs
+C:\Users\Artem\source\repos\API_App\API_App\obj\Debug\netcoreapp3.1\API_App.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\API_App\API_App\obj\Debug\netcoreapp3.1\API_App.dll
+C:\Users\Artem\source\repos\API_App\API_App\obj\Debug\netcoreapp3.1\API_App.pdb
+C:\Users\Artem\source\repos\API_App\API_App\obj\Debug\netcoreapp3.1\API_App.genruntimeconfig.cache
+C:\Users\Artem\source\repos\API_App\API_App\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Artem\source\repos\API_App\API_App\obj\Debug\netcoreapp3.1\API_App.csproj.CopyComplete
